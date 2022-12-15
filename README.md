@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://static.wikia.nocookie.net/geekpediabr/images/a/a4/8641CD99-093F-4F85-9A26-388494EB3A7F.jpeg/revision/latest?cb=20190722190346" width="30%">
+<img src="https://user-images.githubusercontent.com/56279938/207989119-14201840-09b7-4e69-a68c-ca96fcdabf9f.png
+" width="30%">
   <h1 style="border-bottom:none">Rick and Morty</h1>
   <p>Author: José Ricardo</p>
   
