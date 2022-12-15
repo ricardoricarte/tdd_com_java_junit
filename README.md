@@ -1,6 +1,5 @@
 <div align="center">
-<img src="![tdd](https://user-images.githubusercontent.com/56279938/207989199-680a92f4-5e15-43db-a882-4a65079f0146.png)
-" width="30%">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--tidyIejg--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3le7yexfbf8m5g9cqg8y.png " width="30%">
   <h1 style="border-bottom:none">TDD e Junit 5</h1>
   <p>Author: José Ricardo</p>
   
